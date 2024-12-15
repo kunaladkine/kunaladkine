@@ -20,16 +20,16 @@
 ---
 
 ## Technologies I Use:
-| ### Frontend
-<div>
+### Frontend
+| <div>
   <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap" width="4%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript" width="4%" title='JavaScript'/>
 </div>
 
-| ### Backend
-<div>
+### Backend
+|<div>
 <!--   <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
   <img src ="./images/express.svg" alt="Express" width="5%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="MongoDB" width="5%" title='MongoDB'/> -->
@@ -41,7 +41,7 @@
 </div>
 
 ### Tools
-| <div>
+|<div>
   <img src ="./images/figma.svg" alt="Figma" width="5%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code" width="5%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git" width="5%" title='Git'/>
@@ -50,6 +50,7 @@
   <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/> --> |
 
 | ------------- | ------------- | ------------- |
+
 ---
 
 | <a href="https://github.com/kunaladkine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunaladkine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kunaladkine's github stats" /></a> | <a href="https://github.com/kunaladkine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaladkine&layout=compact&theme=buefy&hide_border=true" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaladkine&" alt="kunaladkine" /> | 
