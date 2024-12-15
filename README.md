@@ -18,6 +18,37 @@
 <a href="https://instagram.com/kunaladkineyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaladkineyt" height="30" width="40" /></a>
 </p>
 
+## Technologies I Teach and Use:
+
+### Frontend
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap" width="4%" title='Bootstrap'/>
+  <img src ="./images/javascript.svg" alt="JavaScript" width="4%" title='JavaScript'/>
+</div>
+
+### Backend
+<div>
+<!--   <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
+  <img src ="./images/express.svg" alt="Express" width="5%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="MongoDB" width="5%" title='MongoDB'/> -->
+  <img src ="./images/mysql.svg" alt="MySQL" width="5%" title='MySQL'/>
+  <img src ="./images/sqlite.svg" alt="SQLite" width="5%" title='SQLite'/>
+  <img src ="./images/python.svg" alt="Python" width="5%" title='Python'/>
+<!--   <img src ="./images/flask.svg" alt="Flask" width="5%" title='Flask'/>
+  <img src ="./images/django.svg" alt="Django" width="5%" title='Django'/> -->
+</div>
+
+### Tools
+<div>
+  <img src ="./images/figma.svg" alt="Figma" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git" width="5%" title='Git'/>
+<!--   <img src ="./images/eslint.svg" alt="ESLint" width="5%" title='ESLint'/>
+  <img src ="./images/webpack.svg" alt="Webpack" width="5%" title='Webpack'/>
+  <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/> -->
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
