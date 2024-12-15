@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **kunaladkine90@gmail.com**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kunaladkineyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunaladkineyt" height="30" width="40" /></a>
@@ -22,7 +20,7 @@
 ---
 
 ## Technologies I Use:
-### Frontend
+| ### Frontend
 <div>
   <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
@@ -30,7 +28,7 @@
   <img src ="./images/javascript.svg" alt="JavaScript" width="4%" title='JavaScript'/>
 </div>
 
-### Backend
+| ### Backend
 <div>
 <!--   <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
   <img src ="./images/express.svg" alt="Express" width="5%" title='Express'/>
@@ -43,14 +41,15 @@
 </div>
 
 ### Tools
-<div>
+| <div>
   <img src ="./images/figma.svg" alt="Figma" width="5%" title='Figma'/>
   <img src ="./images/visual-studio-code.svg" alt="VS Code" width="5%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git" width="5%" title='Git'/>
 <!--   <img src ="./images/eslint.svg" alt="ESLint" width="5%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack" width="5%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/> -->
-  
+  <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/> --> |
+
+| ------------- | ------------- | ------------- |
 ---
 
 | <a href="https://github.com/kunaladkine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunaladkine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kunaladkine's github stats" /></a> | <a href="https://github.com/kunaladkine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaladkine&layout=compact&theme=buefy&hide_border=true" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaladkine&" alt="kunaladkine" /> | 
