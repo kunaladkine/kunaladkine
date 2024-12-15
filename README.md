@@ -51,7 +51,7 @@
 ---
   
 
-| <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asabeneh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asabeneh's github stats" /></a> | <a href="https://github.com/asabeneh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout=compact&theme=buefy&hide_border=true" /></a> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunaladkine&" alt="kunaladkine" /> |
+| <a href="https://github.com/kunaladkine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunaladkine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="kunaladkine's github stats" /></a> | <a href="https://github.com/kunaladkine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaladkine&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
