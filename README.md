@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal G Adkine</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Pursing Artificial Intelligence (AI) and Data Science Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -19,28 +19,6 @@
 </p>
 
 ## Technologies I Use:
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-    <img src="./images/html-5.svg" alt="HTML5" width="3%" title="HTML5" />
-    <img src="./images/css-3.svg" alt="CSS3" width="3%" title="CSS3" />
-    <img src="./images/bootstrap.svg" alt="Bootstrap" width="4%" title="Bootstrap" />
-    <img src="./images/javascript.svg" alt="JavaScript" width="4%" title="JavaScript" />
-</div>
-
-<h3>Backend</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-    <img src="./images/mysql.svg" alt="MySQL" width="5%" title="MySQL" />
-    <img src="./images/sqlite.svg" alt="SQLite" width="5%" title="SQLite" />
-    <img src="./images/python.svg" alt="Python" width="5%" title="Python" />
-</div>
-
-<h3>Tools</h3>
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-    <img src="./images/figma.svg" alt="Figma" width="5%" title="Figma" />
-    <img src="./images/visual-studio-code.svg" alt="VS Code" width="5%" title="Visual Studio Code" />
-    <img src="./images/git.svg" alt="Git" width="5%" title="Git" />
-</div>
-
-
 ### Frontend
 <div>
   <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
