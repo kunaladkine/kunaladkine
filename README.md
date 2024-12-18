@@ -17,37 +17,6 @@
 <a href="https://instagram.com/kunaladkineyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunaladkineyt" height="30" width="40" /></a>
 </p>
 
-
-## Technologies I Use:
-### Frontend
-<div>
-  <img src ="./images/html-5.svg" alt="HTML5" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3" width="3%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap" width="4%" title='Bootstrap'/>
-  <img src ="./images/javascript.svg" alt="JavaScript" width="4%" title='JavaScript'/>
-</div>
-
-### Backend
-<div>
-<!--   <img src ="./images/nodejs.svg" alt="Node.js" width="5%" title='Node.js'/>
-  <img src ="./images/express.svg" alt="Express" width="5%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="MongoDB" width="5%" title='MongoDB'/> -->
-  <img src ="./images/mysql.svg" alt="MySQL" width="5%" title='MySQL'/>
-  <img src ="./images/sqlite.svg" alt="SQLite" width="5%" title='SQLite'/>
-  <img src ="./images/python.svg" alt="Python" width="5%" title='Python'/>
-<!--   <img src ="./images/flask.svg" alt="Flask" width="5%" title='Flask'/>
-  <img src ="./images/django.svg" alt="Django" width="5%" title='Django'/> -->
-</div>
-
-### Tools
-<div>
-  <img src ="./images/figma.svg" alt="Figma" width="5%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git" width="5%" title='Git'/>
-<!--   <img src ="./images/eslint.svg" alt="ESLint" width="5%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack" width="5%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon" width="5%" title='Nodemon'/> --> 
-
 ---
 
 <h2 align="left" id="#">Favorite Tech</h2>
@@ -63,6 +32,13 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png/640px-SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="48" height="48" alt="MySql" />
+      </a>
+      <br>Sql
+    </td>
+    
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -141,6 +117,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="55" height="55" alt="Git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/640px-Font_Awesome_5_brands_github.svg.png" width="55" height="55" alt="Github" />
+      </a>
+      <br>GitHub
     </td>
 <!--     <td align="center" width="96">
       <a href="#" >
