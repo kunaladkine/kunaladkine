@@ -38,7 +38,6 @@
       </a>
       <br>Sql
     </td>
-    
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -87,7 +86,7 @@
       </a>
       <br>Seaborn
     </td> -->
-<!--   <tr> -->
+  <tr>
 <!--     <td align="center" width="96"> 
       <a href="#" >
         <img src="https://github.com/Hassan-Shoayb/Hassan-Shoayb.github.io/blob/main/images/pytorch-icon.png" width="60" height="60" alt="Pytorch" />
