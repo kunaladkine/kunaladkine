@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal G Adkine</h1>
-<h3 align="center"> Pursing Artificial Intelligence (AI) and Data Science Engineering</h3>
+<h3 align="center"> Graduate Artificial Intelligence (AI) and Data Science Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
-- 🔭 I’m currently working on **Agriculture Crop Prediction Using Weatheer Forcasting**
-
-- 🌱 I’m currently learning **Python,Javascript**
 
 - 📫 How to reach me **kunaladkine90@gmail.com**
 
