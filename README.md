@@ -78,13 +78,11 @@ I enjoy working on both the **frontend and backend**, integrating **AI and data-
 
 
 ---
+## 🧠 LeetCode Progress – kunaladkine
 
-### 🌟 Follow Me
-<div align="center">
-  <a href="https://github.com/kunaladkine" target="_blank">
-    <img src="https://img.shields.io/github/followers/kunaladkine?label=Follow%20on%20GitHub&style=for-the-badge&color=3776AB&logo=github" alt="Follow Kunal on GitHub" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kunaladkine?theme=light&ext=heatmap&border=0&radius=10" alt="LeetCode Stats Card"/>
+</p>
 
 ---
 
