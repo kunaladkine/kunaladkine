@@ -1,11 +1,10 @@
 <!-- 👋 Intro Section -->
-<h1 align="center">Hi, I'm Kunal Adkine 👋</h1>
-<h3 align="center">🚀 Full Stack Python Developer | 💡 AI & Data Enthusiast | 💻 Tech Explorer</h3>
-
+<!-- 👋 Intro Typing Animation -->
 <p align="center">
-  <a href="mailto:kunaladkine90@gmail.com"><img src="https://img.shields.io/badge/Email-kunaladkine90%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kunaladkine"><img src="https://img.shields.io/badge/LinkedIn-kunaladkine-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/kunaladkine"><img src="https://img.shields.io/badge/GitHub-kunaladkine-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Namaste%2C+I'm+Kunal+Adkine+👋;Full+Stack+Python+Developer+🚀;AI+%26+Data+Enthusiast+🤖;Tech+Explorer+%7C+Problem+Solver+💡" 
+    alt="Typing Intro" 
+  />
 </p>
 
 ---
@@ -13,16 +12,6 @@
 ### 👨‍💻 About Me
 I'm a **Full Stack Python Developer** passionate about creating clean, scalable, and efficient software solutions.  
 I enjoy working on both the **frontend and backend**, integrating **AI and data-driven features**, and learning new technologies every day.  
-
-💬 Ask me about:
-- Python | Django | Flask | REST API  
-- HTML | CSS | JavaScript | Angular | Bootstrap  
-- MySQL | MongoDB | SQLite | PostgreSQL  
-- Data Analysis with NumPy, Pandas, and Matplotlib  
-
-🌱 Currently learning: **Machine Learning & Cloud Deployment (Render, Vercel, AWS)**  
-🎯 Goal: Build impactful projects that merge AI with practical web solutions  
-⚡ Fun fact: I love exploring APIs and automating repetitive tasks!
 
 ---
 
@@ -75,6 +64,14 @@ I enjoy working on both the **frontend and backend**, integrating **AI and data-
 </div>
 
 <br>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kunaladkine&bg_color=0d1117&color=00F0FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" 
+    width="90%" 
+    alt="Kunal's GitHub Activity Graph" 
+  />
+</p>
+<br>
 
 
 ---
@@ -86,7 +83,19 @@ I enjoy working on both the **frontend and backend**, integrating **AI and data-
 
 ---
 
-### 🧩 Fun Section
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunaladkine&bg_color=ffffff&color=3776AB&line=3776AB&point=333&area=true&hide_border=true" width="90%" alt="Kunal's GitHub Activity Graph" />
+  <a href="mailto:kunaladkine90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kunaladkine">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kunaladkine">
+    <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
