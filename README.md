@@ -75,35 +75,16 @@ I’m a **Python Full Stack Developer** with strong experience in building
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <b>Consistency • Productivity • Open-Source Contribution</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunaladkine&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunaladkine" width="48%" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kunaladkine&show_icons=true&count_private=true&theme=vue&hide_border=true&include_all_commits=true" 
-    width="49%" 
-    alt="Kunal Adkine GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kunaladkine&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-    width="49%" 
-    alt="Kunal Adkine GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <i>Building consistently • Learning daily • Shipping real projects 🚀</i>
-</p>
 
 ---
 ## 🧑‍💻 Top Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaladkine&layout=compact&langs_count=8&theme=vue&hide_border=true&hide=css,html" 
-    width="55%" 
-    alt="Top Backend Languages - Kunal Adkine"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaladkine&layout=compact" width="50%" />
 </p>
 
 <p align="center">
